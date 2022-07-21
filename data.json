@@ -1,0 +1,25 @@
+{
+    "Shipments": [
+        {
+            "driver_id": 159679,
+            "id": 300000,
+            "user_id": 132395
+        }
+    ],
+    "Users": {
+        "132395": {
+            "id": 132395,
+            "user_name": "owner"
+        },
+        "134777": {
+            "id": 134777,
+            "is_staff": true,
+            "user_name": "munawir"
+        },
+        "159679": {
+            "id": 159679,
+            "is_staff": true,
+            "user_name": "driver"
+        }
+    }
+}
